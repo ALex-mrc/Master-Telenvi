@@ -1,11 +1,14 @@
 # Plateforme de dépôt Master Telenvi
 
 
+![Logo](https://github.com/ALex-mrc/Master-Telenvi/blob/main/Master_Telenvi_2025.jpeg)
+
+
 ## Le règlement de la plateforme
 
 ### 1. Objectif
 
-La plateforme GitHub a pour objectif de **faciliter le partage de code et de ressources entre les étudiants du Master Télédétection et Environnement de l'Université Rennes 2**. Elle uniquement pour but **d'encourager la collaboration, l'innovation et l'apprentissage** continu dans notre domaine. 
+La plateforme GitHub a pour objectif de **faciliter le partage de code et de ressources entre les étudiant.e.s du Master Télédétection et Environnement de l'Université Rennes 2**. Elle a uniquement pour but **d'encourager la collaboration, l'innovation et l'apprentissage** continu dans notre domaine. 
 
 ### 2. Public visé
 Cette plateforme <span style="color:red">**conserne uniquement les étudiant.e.s du master TELENVI**</span>. 
